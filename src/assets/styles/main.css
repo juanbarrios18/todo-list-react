@@ -1,0 +1,11 @@
+
+.row {
+  max-width: 900px;
+  margin: 0px auto;
+  display: flex;
+  justify-content: center;
+}
+
+.col {
+  margin: 20px;
+}
